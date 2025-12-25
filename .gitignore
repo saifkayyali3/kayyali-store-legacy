@@ -16,3 +16,8 @@
 # Debugging data
 *.pdb
 *.ilk
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
