@@ -2,12 +2,12 @@
 *.o
 *.obj
 
-# Executables (The actual 'running' programs)
+# Executables 
 *.exe
 *.out
 *.app
 
-# IDE Specific (If you used Code::Blocks, Dev-C++, or Visual Studio)
+# IDE Specific
 .vscode/
 .vs/
 *.layout
